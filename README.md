@@ -64,6 +64,8 @@ Gunakan akun berikut untuk mengakses sistem:
 ## Lisensi
 
 ---
-Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi pengembang melalui email: dwiyana@example.com.
+Jika Anda memiliki pertanyaan atau membutuhkan bantuan, silakan hubungi pengembang melalui email: dwiyanaikadek@gmail.com
+
+
 
 
